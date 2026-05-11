@@ -2,38 +2,39 @@
 
 # eveai
 
-### Personal + business AI, on-chain by default.
-
-[![Solana Frontier 2026](https://img.shields.io/badge/Solana-Frontier_2026-7C5CFF)](https://colosseum.com/frontier)
+### Personal and business AI for everyday work.
 
 </div>
 
 ---
 
-> Two account types, one on-chain foundation.
+> Two account types, one product promise: useful AI that feels simple on day one.
 
 ## Personal
 
-Your AI, set up by us, tuned to your real life. Maintained as new tools and models drop — so you don't have to keep up.
+Your AI, set up by us and tuned to your real life. It helps with inbox triage,
+calendar planning, research, money snapshots, goals, and recurring check-ins.
 
 ## Business
 
-For service companies. Sales reps, contracts, and customer ops in one platform — designed for teams who run real-world routes.
+For service companies that run routes, reps, customers, and follow-up every day.
+Everyday AI brings voice intake, CRM updates, scheduling, commission visibility,
+and owner reporting into one focused workspace.
 
-## On-chain by default
+## Proof Layer
 
-Every agreement, every commission, every recurring payment — durable, auditable, yours. The blockchain is the substrate, not the marketing.
-
----
+Some teams need audit-grade records for contracts, payouts, and recurring
+revenue. Everyday AI keeps that technical layer optional and behind the scenes
+for normal users, while preserving a verifiable path for teams that need it.
 
 ## Status
 
-Building toward our **Solana Frontier 2026** hackathon submission (Sun May 11).
+Early access preview. Public copy stays product-first; technical proof and
+hackathon-specific details belong in the MVP submission packet.
 
 ## Contact
 
-- 🌐 [@jetteyee](https://x.com/jetteyee)
-- ✉️ businesskamarijett@gmail.com
+Demo requests: `hello@everyday.ai`
 
 ---
 
