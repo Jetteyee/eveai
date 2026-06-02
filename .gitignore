@@ -4,3 +4,40 @@
 node_modules/
 .next/
 *.log
+
+# ===== reorg hardened baseline (2026-06-02) =====
+# build artifacts (re-creatable)
+node_modules/
+.next/
+dist/
+build/
+.turbo/
+target/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.venv_gog/
+.cache/
+.pytest_cache/
+# secrets — NEVER commit
+.env
+.env.*
+*.env
+*token*.json
+*credential*.json
+*secret*.json
+*key*.json
+*.pem
+id_rsa*
+*keypair*.json
+wallet*.json
+# runtime data/logs (live data lives in ~/data)
+*.log
+logs/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.bak
+*.bak-*
